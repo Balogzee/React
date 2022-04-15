@@ -1,2 +1,2 @@
 # React
-Learning React
+Learning React on SideHustle Internship
