@@ -1,2 +1,1 @@
-# React
-Learning React on SideHustle Internship
+Learning React on SideHustle Internship 5.0
