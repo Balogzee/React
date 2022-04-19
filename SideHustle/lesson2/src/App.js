@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1> Side hustle </h1>
+    <div>
+      <h1> React Class </h1>
     </div>
   );
 }
